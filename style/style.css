@@ -1,1 +1,66 @@
 
+
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&family=Open+Sans:ital,wght@0,400;0,800;1,700&family=Poppins:wght@500;600;700&family=Work+Sans:wght@400;500;600;700;800;900&display=swap');
+
+
+*{
+
+
+  font-family: 'Lato', sans-serif;
+  font-family: 'Open Sans', sans-serif;
+  font-family: 'Poppins', sans-serif;
+  font-family: 'Work Sans', sans-serif;
+
+}
+
+nav{
+padding: 50px 230px;
+
+}
+
+
+
+.btn-pic{
+
+width: 30px;
+
+
+}
+
+
+.nav-title{
+display: flex;
+justify-content: space-between;
+
+
+}
+
+.nav-dis{
+display: flex;
+gap: 20px;
+
+
+}
+
+.nav-description{
+
+  display: flex;
+
+gap: 20px;
+
+}
+
+.nav-description a{
+text-decoration: none;
+font-size: 15px;
+font-weight: 500;
+
+
+
+}
+
+
+
+
+
+
