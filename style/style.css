@@ -163,6 +163,128 @@ background-color: rgba(140, 87, 238, 0.05), rgba(241, 68, 174, 0.05);
 
 
 
+.online-item{
+
+text-align: center;
+
+
+padding-top: 110px;
+}
+
+
+.online-title{
+
+font-size: 40px;
+
+
+font-weight: 700;
+
+
+
+
+}
+
+
+.online-sam{
+
+color: pink;
+
+
+}
+
+
+.online-dis{
+
+color:#534C64 ;
+font-size: 12px;
+
+
+
+
+}
+
+
+.img-12{
+
+width: 200px;
+
+
+
+}
+
+
+.img-section{
+
+display: flex;
+
+justify-content: center;
+
+gap: 50px;
+
+
+
+}
+
+.play-section{
+
+display: flex;
+justify-content: center;
+
+padding-top: 50px;
+
+gap: 120px;
+
+padding-right: 50px;
+}
+
+
+
+.play-discription{
+
+text-align: right;
+ 
+
+padding-top:120px ;
+}
+
+
+.feature-img-2{
+
+position: relative;
+
+bottom: 210px;
+
+right: 70px;
+}
+
+
+
+.feature-img-0{
+
+width: 550px;
+
+
+
+
+}
+
+
+.feature-img-3{
+
+width:250px ;
+
+
+
+
+}
+
+
+
+
+
+
+
+
 
 
 
